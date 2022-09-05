@@ -1,0 +1,42 @@
+
+Johnson, Carol T,S,L,O 45.0
+Weber, Whitney T,S,L,O,P,G,N 45.0
+
+Beig, Wyatt G,L,S,O,T 40.0
+Berg, Emma S,T,L,O,G,N 40.0
+Henderson, Chad O,L,G,T,S,P,N 40.0
+
+Joyce, Veronica G,P,L,O,S,E 40.0
+Morain, Westley G,L,N 40.0
+
+Fergus, Sara S,O,T,P,E 40.0
+Peregino, Adrian G,N,P,O,S,T,E 40.0
+Phillips, Vercheres P,E,T,O,S,G 40.0
+Schuette, Emily P,S,T,E 40.0
+Standley, Marie E,S,T 30.0
+Strong, Jenicy O,S,T,G,E 17.5 M
+
+Morain, Leyton P,G 40.0
+
+Berry, Briar T,G,N 30.0
+Campbell, Jeremiah P 40.0
+Carr, Joseph P,G,N 40.0
+Guerrero, Makoa G,O,S,T 40.0
+Chayer, Kaitlin G 30.0
+Deschambault, Kellie T,S,O 40.0
+Fegel, AshLynn O,S,E,P 40.0
+Gray Camry O,E,T,S 30.0
+Guyette, Jennifer E,T,S 40.0
+Norris, Nathaniel O,T 40.0
+Ray, Anthony N 30.0
+Rios, Jessica E,O 30.0 W,R
+Schaeffer, Stephanie O,T 30.0
+Shaepe, Joshua G,N,P 40.0
+Spaun, Audrey E,O 30.0
+Wider, Nicole S,T,O 30.0
+
+Florent, Jaimie O,E,T,S 17.5 M
+Richard, Elise O,E 17.5 M
+Saunders, Amaya E,S,O,T 17.5 M
+Soufi, Sahara O,T,S 17.5 M
+Vaal, Griffin S,O,T 17.5 M
