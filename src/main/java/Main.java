@@ -137,7 +137,7 @@ public class Main {
      * @throws FileNotFoundException if File is not found
      */
     public static void addShifts() throws FileNotFoundException{
-        File file= new File("C:\\Users\\jlatr\\OneDrive\\Documents\\Shifts.txt");
+        File file= new File("Shifts.txt");
         Scanner fileScan = new Scanner(file);
         Scanner line;
 
@@ -160,7 +160,7 @@ public class Main {
      * @throws FileNotFoundException if File is not found
      */
     public static void addEmployees() throws FileNotFoundException {
-        File file = new File("C:\\Users\\jlatr\\OneDrive\\Documents\\Employees.txt");
+        File file = new File("Employees.txt");
         Scanner fileScan= new Scanner(file);
         Scanner line;
 
