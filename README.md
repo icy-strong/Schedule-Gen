@@ -6,7 +6,7 @@ This program takes in a list of employees,  what positions they work, how many h
 In order to have the program properly use the employee and shift list, there must be a text file labeled "Employees" and "Shifts" respectively, that are properly formatted.
 
 
-*Empolyees*
+**Empolyees**
 
 
 The proper format is: Last name, First name chars representing positions seperated by commas, amount of hours to work in week, M for if they are a minor, day of the week the cant work (O,T,W,R,F,S,Z for Monday-Sunday)
@@ -20,7 +20,7 @@ The first position of the list the employee can work must be the position they a
 Add blank lines in order to represent where the breaks in management/other positions are.
 
 
-*Shifts*
+**Shifts**
 
 
 The proper format is: Char representing position, the time of which the positon occurs, how long the position is in hours (represented by a double)
@@ -30,6 +30,3 @@ L 3:30p-11:00p 7.5
 
 The positions that the least number of people can fill should be first, so they can be first piority to fill. 
 
-
-
-###Fin
