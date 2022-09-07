@@ -1,6 +1,6 @@
 # Description
 
-This program takes in a list of employees,  what positions they work, how many hours they work, and what their days off are, along with a list of shifts that need to be filled daily, then generates a schedule using a genetic algorithim. The schedules are graded based off how many shifts are filled, and how many people are in their best position (aces in their places).
+This program takes in a list of employees,  what positions they work, how many hours they work, and what their days off are, along with a list of shifts that need to be filled daily, then generates a schedule using a genetic algorithim. The program randomly fills shifts with employees, then breeds the schedules. There's a chance that the schedule will mutate and swap a shift. Then the schedules are graded based off how many shifts are filled, and how many people are in their best position (aces in their places). The higher the grade of the schedule, the more of that schedule will be able to breed, leading to as many user determined generations to get better and better schedules.
 
 ## File Imports
 In order to have the program properly use the employee and shift list, there must be a text file labeled "Employees" and "Shifts" respectively, that are properly formatted.
